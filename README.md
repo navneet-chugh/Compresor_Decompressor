@@ -10,8 +10,7 @@ Objective of this project is to reduce the number of bits needed to represent da
 - :red_circle: AWT
 
 ### Project snips
-![Base pic 1](https://github.com/navneet-chugh/Compresor_Decompressor/assets/127025839/830e57e1-08d9-4943-8b1e-18571dc37e29)
-![main 1](https://github.com/navneet-chugh/Compresor_Decompressor/assets/127025839/c123b97c-4b2f-4dee-831e-09db9b97042b)
-![main 2](https://github.com/navneet-chugh/Compresor_Decompressor/assets/127025839/b146ecaa-8434-4c29-a1ea-bb6d89eb2156)
-
+![UI](https://github.com/navneet-chugh/Compresor_Decompressor/assets/127025839/de38feae-029e-4b3a-8fa5-ff66cac46aac)
+![Compress](https://github.com/navneet-chugh/Compresor_Decompressor/assets/127025839/5c9af7ea-9a58-405a-b860-2dd7af56edef)
+![Decompress](https://github.com/navneet-chugh/Compresor_Decompressor/assets/127025839/084e7c96-d0a8-423d-9eb1-928eaa6bda47)
 
